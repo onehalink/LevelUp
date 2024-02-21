@@ -1,0 +1,19 @@
+[Actor]
+Count=1
+月桂, 4, 5, 5
+
+[Entity]
+Count=13
+Mountain, 3, 0
+Food, 4, 0
+Mountain, 5, 0
+Tree, 3, 1
+LockC, 4, 1
+Grass, 5, 2
+Box, 7, 3
+KeyC, 8, 3
+Tree, 7, 4
+Tree, 3, 5
+Car, 4, 5
+Mountain, 4, 6
+Tree, 5, 6
