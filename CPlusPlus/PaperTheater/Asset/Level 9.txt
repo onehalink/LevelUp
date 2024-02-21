@@ -1,0 +1,34 @@
+[Actor]
+Count=2
+锅巴, 4, 5, 5
+月桂, 4, 3, 4
+
+[Entity]
+Count=27
+Tree, 2, 0
+Mountain, 4, 0
+Mountain, 1, 1
+KeyC, 5, 1
+Tree, 6, 1
+Mountain, 9, 1
+Grass, 4, 2
+KeyB, 9, 2
+Car, 4, 3
+Tree, 9, 3
+Grass, 4, 4
+Grass, 5, 4
+Box, 6, 4
+Grass, 7, 4
+LockB, 8, 4
+Car, 4, 5
+LockC, 5, 5
+LockA, 7, 5
+Food, 8, 5
+Mountain, 0, 6
+Grass, 3, 6
+Grass, 4, 6
+Grass, 6, 6
+Grass, 7, 6
+Grass, 8, 6
+Mountain, 4, 7
+KeyA, 8, 7

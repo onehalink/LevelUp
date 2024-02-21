@@ -1,0 +1,22 @@
+[Actor]
+Count=2
+锅巴, 2, 4, 6
+月桂, 2, 5, 7
+
+[Entity]
+Count=15
+Grass, 7, 2
+Grass, 8, 2
+Tree, 2, 3
+Food, 7, 3
+Tree, 8, 3
+Mountain, 1, 4
+Car, 2, 4
+Grass, 6, 4
+LockC, 7, 4
+Tree, 1, 5
+Car, 2, 5
+Box, 3, 5
+Box, 4, 5
+Tree, 2, 6
+KeyC, 7, 6
